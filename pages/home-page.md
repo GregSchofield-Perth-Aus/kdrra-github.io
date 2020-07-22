@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-{% sections/home/home.md %}
+{% include_relative ./sections/home/home.md %}
