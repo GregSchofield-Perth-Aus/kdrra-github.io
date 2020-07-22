@@ -1,5 +1,4 @@
 ---
 layout: default
 ---
-
-{% home-page.md %}
+{% include_relative ./pages/home-page.md %}
